@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@500&display=swap');
+body{
+  background: #209cee;
+  
+}
+.app {
+  padding: 30px;
+}
+
+.header{
+text-align: center;
+padding: 10px;
+font-size: 35px;
+font-weight: 800;
+font-family: 'Balsamiq Sans', cursive;
+}
+
+.todo-list {
+  margin: auto;
+  background: #e8e8e8;
+  border-radius: 4px;
+  max-width: 400px;
+  font-family: 'Balsamiq Sans', cursive;
+  padding: 10px;
+}
+
+.todo {
+  margin:  10px;
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  display: flex;
+  font-size: 20px;
+  justify-content: space-between;
+  padding: 5px;
+  
+}
+
+input{
+  font-family: 'Balsamiq Sans', cursive;
+  margin-left: 10px;
+}
+button{
+  font-family: 'Balsamiq Sans', cursive;
+}
